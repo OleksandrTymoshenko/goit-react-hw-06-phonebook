@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useDispatch } from 'react-redux'
-import actions from "./Form";
+import actions from "../../redux/contacts/actions";
 import PropTypes from "prop-types";
 import s from "./Form.module.css";
 

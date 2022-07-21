@@ -27,7 +27,7 @@
 
 .btnYes:hover {
   transform: scale(1.2);
-  background-color: rgb(38, 214, 38);
+  background-color: rgb(139, 247, 139);
 }
 
 .btnNo {
@@ -39,5 +39,5 @@
 
 .btnNo:hover {
   transform: scale(1.2);
-  background-color: tomato;
+  background-color: rgb(255, 0, 0);
 }
