@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useDispatch } from 'react-redux'
-import actions from "redux/contacts/actions";
+import actions from "./redux/contacts/actions";
 import s from "./App.module.css";
 import Form from "./Components/Form/Form";
 import ContactList from "./Components/Contacts/ContactList";

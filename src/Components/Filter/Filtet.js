@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import { useSelector, useDispatch } from 'react-redux'
-import actions from "redux/contacts/actions";
+import actions from "./Filtet";
 export default function Filter() {
   const value = useSelector(state => state.contacts.filter);
   const dispatch = useDispatch();
